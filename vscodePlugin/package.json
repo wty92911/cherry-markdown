@@ -54,9 +54,10 @@
             "dark",
             "light",
             "green",
-            "red"
+            "red",
+            "blue"
           ],
-          "description": "cherry-markdown's theme, available values: [ default | dark | light | green | red ]"
+          "description": "cherry-markdown's theme, available values: [ default | dark | light | green | red | blue ]"
         },
         "cherryMarkdown.fileUploadUrl": {
           "type": "url",
