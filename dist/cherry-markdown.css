@@ -378,6 +378,14 @@
   content: "\ea6f";
 }
 
+.ch-icon-uparrow:before {
+  content: "\ea70";
+}
+
+.ch-icon-downarrow:before {
+  content: "\ea71";
+}
+
 .cherry-markdown {
   word-break: break-all;
   /* Specify class=linenums on a pre to get line numbering */
