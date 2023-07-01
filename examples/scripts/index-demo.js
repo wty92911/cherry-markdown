@@ -178,7 +178,7 @@ var basicConfig = {
     ],
     toolbarRight: ['fullScreen', '|'],
     bubble: ['bold', 'italic', 'underline', 'strikethrough', 'sub', 'sup', 'quote', 'ruby', '|', 'size', 'color'], // array or false
-    sidebar: ['mobilePreview', 'copy', 'theme'],
+    sidebar: ['mobilePreview', 'copy', 'theme', 'uparrow', 'downarrow'],
     customMenu: {
       customMenuAName: customMenuA,
       customMenuBName: customMenuB,

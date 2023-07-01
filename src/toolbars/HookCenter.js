@@ -69,7 +69,8 @@ import Panel from './hooks/Panel';
 import Justify from './hooks/Justify';
 import Detail from './hooks/Detail';
 import DrawIo from './hooks/DrawIo';
-
+import UpArrow from './hooks/UpArrow';
+import DownArrow from './hooks/DownArrow';
 // 定义默认支持的工具栏
 // 目前不支持按需动态加载
 // 如果对CherryMarkdown构建后的文件大小有比较严格的要求，可以根据实际情况删减hook
@@ -126,6 +127,8 @@ const HookList = {
   justify: Justify,
   detail: Detail,
   drawIo: DrawIo,
+  uparrow: UpArrow,
+  downarrow: DownArrow,
 };
 
 export default class HookCenter {
